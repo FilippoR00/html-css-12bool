@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    padding-top: 40px;
+}
+
+.row div{
+    height: 30px;
+    display: flex;
+}
+
+.red{background-color: red;}
+.black{background-color: black;}
+.brown{background-color: #c98f4c;}
+.orange{background-color: orange;}
+.pink{background-color: #ff949d;}
+.violet{background-color: #9900ff;}
+.yellow{background-color: yellow;}
+.gray{background-color: #666666;}
+.green{background-color: #00ff00;}
+.blue{background-color: blue;}
