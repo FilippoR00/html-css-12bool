@@ -4,16 +4,13 @@
     box-sizing: border-box;
 }
 
-.row{
-    height: 250px;
-}
-
 .row div{
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 22px;
     border: 1px solid black;
+    height: 250px;
 }
 
 
